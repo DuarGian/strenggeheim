@@ -20,9 +20,7 @@ nav{
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	padding-top: 45px;
-	padding-left: 8%;
-	padding-right: 8%;
+	padding: 24px;
 	position: fixed;
 	width: 100%;
 	z-index: 11111111111;
